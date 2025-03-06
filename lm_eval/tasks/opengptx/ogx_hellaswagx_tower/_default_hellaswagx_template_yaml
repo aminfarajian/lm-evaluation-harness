@@ -1,4 +1,4 @@
-task: hellaswagx_tower
+tag: hellaswagx_tower
 dataset_path: openGPT-X/hellaswagx
 output_type: multiple_choice
 training_split: train

@@ -1,5 +1,5 @@
-tags:
-  - truthfulqax
+tag:
+  - truthfulqax_tower
 dataset_path: openGPT-X/truthfulqax
 output_type: multiple_choice
 training_split: null

@@ -1,7 +1,5 @@
 tag:
-  - arcx
-  - arcx_challenge
-task: arcx_challenge_tower
+  - arcx_challenge_tower
 dataset_path: openGPT-X/arcx
 output_type: multiple_choice
 training_split: train
