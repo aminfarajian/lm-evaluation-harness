@@ -162,7 +162,7 @@ if __name__ == "__main__":
                 "dataset_name": f"{subj}_{lang}",
                 "task": f"{args.prefix}_{lang.lower()}-{subj}",
                 # "task_alias": f"{subj}_{lang.lower()}",
-                "group": f"{args.prefix}_{cat}",
+                # "group": f"{args.prefix}_{cat}",
                 # "group_alias": f"{cat}",
                 "doc_to_choice": f"['{a}', '{b}', '{c}', '{d}']",
                 "doc_to_text": f"{{{{question.strip()}}}}\n{a}. {{{{choices[0]}}}}\n{b}. {{{{choices[1]}}}}\n{c}. {{{{choices[2]}}}}\n{d}. {{{{choices[3]}}}}\n{answer}:",
